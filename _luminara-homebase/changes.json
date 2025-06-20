@@ -62445,5 +62445,37 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-20T10:47:36.705432+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2017297",
+                "new_value": "2017944"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
