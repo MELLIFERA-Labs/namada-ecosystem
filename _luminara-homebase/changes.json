@@ -65691,5 +65691,28 @@
                 "new_value": "1.28.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-21T10:25:39.356073+00:00Z",
+        "changes": [
+            {
+                "team": "Sproutstake",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Sproutstake.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Sproutstake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
