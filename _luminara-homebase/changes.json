@@ -66495,5 +66495,19 @@
                 "new_value": "up"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-21T16:28:59.265119+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
