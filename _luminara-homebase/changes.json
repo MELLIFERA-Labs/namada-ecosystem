@@ -82709,5 +82709,37 @@
                 "new_value": "2155971"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-07T10:50:26.930436+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2155971",
+                "new_value": "2156182"
+            },
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.29.0"
+            }
+        ]
     }
 ]
