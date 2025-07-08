@@ -84624,5 +84624,28 @@
                 "new_value": "2169178"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-08T18:35:55.549735+00:00Z",
+        "changes": [
+            {
+                "team": "Sproutstake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2169178",
+                "new_value": "2169651"
+            }
+        ]
     }
 ]
