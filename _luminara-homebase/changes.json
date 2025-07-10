@@ -86286,5 +86286,37 @@
                 "new_value": "2186663"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-10T10:50:16.073175+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2186663",
+                "new_value": "2186884"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.rpc.url",
+                "type": "modified",
+                "old_value": "https://namada.loserboy.xyz/",
+                "new_value": "https://namada.loserboy.xyz"
+            }
+        ]
     }
 ]
