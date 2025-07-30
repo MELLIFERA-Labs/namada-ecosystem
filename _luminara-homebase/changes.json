@@ -109878,5 +109878,28 @@
                 "new_value": "2380192"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T23:26:07.386134+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2380192",
+                "new_value": "2380602"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            }
+        ]
     }
 ]
