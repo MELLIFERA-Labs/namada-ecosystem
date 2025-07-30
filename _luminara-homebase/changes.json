@@ -108385,5 +108385,28 @@
                 "new_value": "2376117"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T13:46:53.887945+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.31.2",
+                "new_value": "1.31.4"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2376117",
+                "new_value": "2376491"
+            }
+        ]
     }
 ]
